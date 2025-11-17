@@ -24,4 +24,4 @@ Sub-category Breakdown highlighting top revenue contributors
 User-friendly and visually engaging interactive dashboard design
 
 6. Screenshots/Demo
-   Show what the Dashboard looks like.
+   Show what the Dashboard looks like. https://github.com/Laxmikalakoti02/Superstore-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png
